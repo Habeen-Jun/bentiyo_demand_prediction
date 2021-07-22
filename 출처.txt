@@ -1,0 +1,10 @@
+<<출처>>
+
+0~4세 영유아 인구정보(1990-2010): Child population by age group.xlsx
+kidscount - https://datacenter.kidscount.org/data/map/101-child-population-by-age-group?loc=1&loct=1#1/any/false/false/1729/62/420/any/
+
+미국 주별 날씨 데이터: api.py 
+NOAA(National Oceanic and Atmosphere Administration) - https://www.ncdc.noaa.gov/cag/
+
+
+
